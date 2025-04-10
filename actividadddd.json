@@ -1,0 +1,42 @@
+[
+  {
+    "_id": { "$oid": "6616d8cbe13b7d3bda0a0001" },
+    "titulo": "Cien Años de Soledad",
+    "autor": "Gabriel García Márquez",
+    "anio": 1967,
+    "genero": "Realismo mágico",
+    "disponible": true
+  },
+  {
+    "_id": { "$oid": "6616d8cbe13b7d3bda0a0002" },
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "anio": 1949,
+    "genero": "Distopía",
+    "disponible": false
+  },
+  {
+    "_id": { "$oid": "6616d8cbe13b7d3bda0a0003" },
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "anio": 1605,
+    "genero": "Novela",
+    "disponible": true
+  },
+  {
+    "_id": { "$oid": "6616d8cbe13b7d3bda0a0004" },
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "anio": 1943,
+    "genero": "Fábula",
+    "disponible": true
+  },
+  {
+    "_id": { "$oid": "6616d8cbe13b7d3bda0a0005" },
+    "titulo": "La Sombra del Viento",
+    "autor": "Carlos Ruiz Zafón",
+    "anio": 2001,
+    "genero": "Misterio",
+    "disponible": false
+  }
+]
